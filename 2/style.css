@@ -23,11 +23,12 @@ button {
   font-size: 500;
   color: #ecf0f1;
   cursor: pointer;
+  margin-right: auto;
 }
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-end;
   align-items: center;
   padding: 30px 10%;
 }
